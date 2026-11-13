@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-label="Shayan Mustafa — Data &amp; AI engineer. Stack: Python, C#, JavaScript, AWS, Terraform, Snowflake, Databricks, dbt, Airflow">
+  <style>
+    .card { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+    .bar  { stroke: #30363d; stroke-width: 1; }
+    .dot  { fill: #30363d; }
+    .ttl  { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #6e7681; text-anchor: middle; }
+    text  { font: 400 16px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #c9d1d9; }
+    .p    { fill: #3fb950; font-weight: 600; }
+    .name { fill: #f0f6fc; font-weight: 700; }
+    .mut  { fill: #6e7681; }
+    .key  { fill: #79c0ff; }
+  </style>
+
+  <rect class="card" x="0.5" y="0.5" width="899" height="359" rx="12"/>
+  <line class="bar" x1="0.5" y1="38" x2="899.5" y2="38"/>
+  <circle class="dot" cx="22" cy="19" r="6"/>
+  <circle class="dot" cx="42" cy="19" r="6"/>
+  <circle class="dot" cx="62" cy="19" r="6"/>
+  <text class="ttl" x="450" y="23">shayan — zsh</text>
+
+  <!-- the session types itself out once on load, then idles on a blinking cursor -->
+  <text x="30" y="80" xml:space="preserve"><tspan class="p">$</tspan> <tspan visibility="hidden">w<set attributeName="visibility" to="visible" begin="0.50s" fill="freeze"/></tspan><tspan visibility="hidden">h<set attributeName="visibility" to="visible" begin="0.57s" fill="freeze"/></tspan><tspan visibility="hidden">o<set attributeName="visibility" to="visible" begin="0.64s" fill="freeze"/></tspan><tspan visibility="hidden">a<set attributeName="visibility" to="visible" begin="0.71s" fill="freeze"/></tspan><tspan visibility="hidden">m<set attributeName="visibility" to="visible" begin="0.78s" fill="freeze"/></tspan><tspan visibility="hidden">i<set attributeName="visibility" to="visible" begin="0.85s" fill="freeze"/></tspan></text>
+  <!-- EDIT: name and role -->
+  <text x="30" y="110" visibility="hidden"><set attributeName="visibility" to="visible" begin="1.17s" fill="freeze"/><tspan class="name">Shayan Mustafa</tspan><tspan class="mut"> · data &amp; ai engineer</tspan></text>
+
+  <text x="30" y="156" xml:space="preserve" visibility="hidden"><set attributeName="visibility" to="visible" begin="1.47s" fill="freeze"/><tspan class="p">$</tspan> <tspan visibility="hidden">c<set attributeName="visibility" to="visible" begin="1.67s" fill="freeze"/></tspan><tspan visibility="hidden">a<set attributeName="visibility" to="visible" begin="1.74s" fill="freeze"/></tspan><tspan visibility="hidden">t<set attributeName="visibility" to="visible" begin="1.81s" fill="freeze"/></tspan><tspan visibility="hidden"> <set attributeName="visibility" to="visible" begin="1.88s" fill="freeze"/></tspan><tspan visibility="hidden">s<set attributeName="visibility" to="visible" begin="1.95s" fill="freeze"/></tspan><tspan visibility="hidden">t<set attributeName="visibility" to="visible" begin="2.02s" fill="freeze"/></tspan><tspan visibility="hidden">a<set attributeName="visibility" to="visible" begin="2.09s" fill="freeze"/></tspan><tspan visibility="hidden">c<set attributeName="visibility" to="visible" begin="2.16s" fill="freeze"/></tspan><tspan visibility="hidden">k<set attributeName="visibility" to="visible" begin="2.23s" fill="freeze"/></tspan><tspan visibility="hidden">.<set attributeName="visibility" to="visible" begin="2.30s" fill="freeze"/></tspan><tspan visibility="hidden">y<set attributeName="visibility" to="visible" begin="2.37s" fill="freeze"/></tspan><tspan visibility="hidden">m<set attributeName="visibility" to="visible" begin="2.44s" fill="freeze"/></tspan><tspan visibility="hidden">l<set attributeName="visibility" to="visible" begin="2.51s" fill="freeze"/></tspan></text>
+  <g visibility="hidden"><set attributeName="visibility" to="visible" begin="2.83s" fill="freeze"/><text x="30" y="186" class="key">languages:</text><text x="190" y="186"><tspan class="mut">[</tspan>Python<tspan class="mut">, </tspan>C#<tspan class="mut">, </tspan>JavaScript<tspan class="mut">]</tspan></text></g>
+  <g visibility="hidden"><set attributeName="visibility" to="visible" begin="2.91s" fill="freeze"/><text x="30" y="214" class="key">cloud:</text><text x="190" y="214"><tspan class="mut">[</tspan>AWS<tspan class="mut">]</tspan></text></g>
+  <g visibility="hidden"><set attributeName="visibility" to="visible" begin="2.99s" fill="freeze"/><text x="30" y="242" class="key">iac:</text><text x="190" y="242"><tspan class="mut">[</tspan>Terraform<tspan class="mut">]</tspan></text></g>
+  <g visibility="hidden"><set attributeName="visibility" to="visible" begin="3.07s" fill="freeze"/><text x="30" y="270" class="key">data:</text><text x="190" y="270"><tspan class="mut">[</tspan>Snowflake<tspan class="mut">, </tspan>Databricks<tspan class="mut">, </tspan>dbt<tspan class="mut">]</tspan></text></g>
+  <g visibility="hidden"><set attributeName="visibility" to="visible" begin="3.15s" fill="freeze"/><text x="30" y="298" class="key">orchestration:</text><text x="190" y="298"><tspan class="mut">[</tspan>Airflow<tspan class="mut">]</tspan></text></g>
+
+  <text x="30" y="336" visibility="hidden"><set attributeName="visibility" to="visible" begin="3.53s" fill="freeze"/><tspan class="p">$</tspan><tspan class="p"> ▍<animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" begin="3.53s" repeatCount="indefinite"/></tspan></text>
+</svg>
